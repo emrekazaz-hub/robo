@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import CardList from "./CardList";
-import { robots } from "./robots";
-import Scroll from "./Scroll";
-import SearchBox from "./SearchBox";
+import CardList from "../compoments/CardList";
+import Scroll from "../compoments/Scroll";
+import SearchBox from "../compoments/SearchBox";
+import './App.css';
 
 /*
 SearchBox kullanabilmek icin robots ve searchbox arasinda iliski kurmamiz gerekmekte
