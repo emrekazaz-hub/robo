@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robocd/static/css/main.f651bf7e.css",
+    "main.js": "/robocd/static/js/main.05d960a3.js",
+    "static/js/787.32032a02.chunk.js": "/robocd/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robocd/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robocd/index.html",
+    "main.f651bf7e.css.map": "/robocd/static/css/main.f651bf7e.css.map",
+    "main.05d960a3.js.map": "/robocd/static/js/main.05d960a3.js.map",
+    "787.32032a02.chunk.js.map": "/robocd/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f651bf7e.css",
+    "static/js/main.05d960a3.js"
+  ]
+}
